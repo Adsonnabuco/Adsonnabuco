@@ -1,9 +1,8 @@
 ### Hello i'm Adson, wellcome on my Github 👋
 
 <div>
-  
-  <img  height="170em" src="https://github-readme-stats.vercel.app/api?username=Adsonnabuco&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img align="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adsonnabuco&layout=compact&langs_count=16&theme=codeSTACKr"/>
+  <img  height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=Adsonnabuco&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adsonnabuco&layout=compact&langs_count=16&theme=codeSTACKr"/>
 </div>
 <br>
 <div  align="center"> 
