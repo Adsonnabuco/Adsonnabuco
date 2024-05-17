@@ -76,7 +76,3 @@
 
 ###
 
-### 🎧 Listening Spotify 
-
-  [![Spotify](https://novatorem-ayspw82cb-evs444.vercel.app/api/spotify)]([[https://open.spotify.com/user/31ikb6rcqitw6twbnfim7cmjsuvm?si=560ea63727784985]])
-  
