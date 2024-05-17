@@ -72,7 +72,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Adsonnabuco/Adsonnabuco/output/snake.svg" alt="Snake animation" />
-
-###
-
