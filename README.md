@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">-🎓 Estou fazendo uma especialização em back-end Java;<br>-📚 Atualmente faço tecnólogo em analise e desenvolvimento de sistemas pela faculdade digital Descomplica;<br>-💡 No tempo livre gosto de estudar inglês, e estou estou estudando tambem para concursos publicos.<br>-💪 Confeço que estou tentando me tornar um pouco fit nesse ano de 2024;</p>
+<p align="left">-🎓 Estou fazendo uma especialização em back-end Java;<br>-📚 Atualmente faço tecnólogo em analise e desenvolvimento de sistemas pela faculdade digital Descomplica;<br>-💡 No tempo livre gosto de estudar inglês, e estou estou estudando tambem para concursos publicos.<br>-
 
 ###
 
