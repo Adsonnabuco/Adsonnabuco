@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">-🎓 Estou fazendo uma especialização em back-end Java;<br>-📚 Atualmente faço tecnólogo em analise e desenvolvimento de sistemas pela faculdade digital Descomplica;<br>-💡 No tempo livre gosto de estudar inglês, e estou estou estudando tambem para concursos publicos.<br>
+<p align="left">-🎓 Estou fazendo uma especialização em back-end Java;<br>-📚 Atualmente faço tecnólogo em analise e desenvolvimento de sistemas pela faculdade digital Descomplica;
 
 ###
 
@@ -46,8 +46,8 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adsonnabuco&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adsonnabuco&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Adsonnabuco&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adsonnabuco&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=codeSTACKr&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
