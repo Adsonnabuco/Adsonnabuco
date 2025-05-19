@@ -19,8 +19,7 @@
 
 ###
 
-<p align="left">• 🧑‍🎓 Pós Graduando em Engenharia de Software.<br>
-                • 📗 Formado em Análise e Desenvovlimento De Sistemas pela faculdade digital Descomplica.<br>
+<p align="left">• 📗 Formado em Análise e Desenvovlimento De Sistemas pela faculdade digital Descomplica.<br>
                 • 🎓 Estou fazendo uma especialização em back-end Java na Escola Britânica de Artes Criativas e Tecnologia (EBAC).<br>
 
 ###
