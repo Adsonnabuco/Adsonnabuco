@@ -19,8 +19,11 @@
 
 ###
 
-<p align="left">• 📗 Formado em Análise e Desenvovlimento De Sistemas pela faculdade digital Descomplica.<br>
-                • 🎓 Estou fazendo uma especialização em back-end Java na Escola Britânica de Artes Criativas e Tecnologia (EBAC).<br>
+<p align="left">
+• 📗 Formado em Análise e Desenvolvimento de Sistemas pela faculdade digital Descomplica.<br>
+• 🎓 Cursando especialização em back-end Java na Escola Britânica de Artes Criativas e Tecnologia (EBAC).<br>
+• 📘 Iniciando uma nova pós-graduação em Engenharia de Software, ampliando conhecimentos em arquitetura, processos de desenvolvimento e práticas modernas da área.<br>
+</p>
 
 ###
 
@@ -49,7 +52,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adsonnabuco&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="160" alt="stats graph"  /><img width="12" /><img width="12" /><img width="12" /><img width="12" /><img width="12" /><img width="12" />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adsonnabuco&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=codeSTACKr&hide_border=false&order=2" height="160" alt="languages graph"  />
 </div>
 
