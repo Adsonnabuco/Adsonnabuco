@@ -20,9 +20,9 @@
 ###
 
 <p align="left">
-• 📗 Formado em Análise e Desenvolvimento de Sistemas pela faculdade digital Descomplica.<br>
+• 📗 Formado em Análise e Desenvolvimento de Sistemas pela faculdade digital Uniamerica + descomplica<br>
 • 🎓 Cursando especialização em back-end Java na Escola Britânica de Artes Criativas e Tecnologia (EBAC).<br>
-• 📘 Iniciando uma nova pós-graduação em Engenharia de Software, ampliando conhecimentos em arquitetura, processos de desenvolvimento e práticas modernas da área.<br>
+• 📘 Cursando pós-graduação em Engenharia de Software, ampliando conhecimentos em arquitetura, processos de desenvolvimento e práticas modernas da área.<br>
 </p>
 
 ###
